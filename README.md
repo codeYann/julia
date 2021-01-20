@@ -6,11 +6,11 @@ Learning Julialang
 
 | Nome      | Status |
 | --------- | ------ |
-| Vars      |        |
-| fluxo     |        |
-| repetição |        |
-| funções   |        |
-
+| Vars      |   ok   |
+| Fluxo     |        |
+| Repetição |        |
+| Funções   |        |
 
 ## License
+
 [MIT](https://mit-license.org/)
