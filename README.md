@@ -7,8 +7,8 @@ Learning Julialang
 | Nome      | Status |
 | --------- | ------ |
 | Vars      |   ok   |
-| Fluxo     |        |
-| Repetição |        |
+| Fluxo     |   ok   |
+| Repetição |   ok   |
 | Funções   |        |
 
 ## License
